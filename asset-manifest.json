@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sql-atlan/static/css/main.38ec9444.css",
+    "main.js": "/sql-atlan/static/js/main.69a7da72.js",
+    "static/js/787.5dad0626.chunk.js": "/sql-atlan/static/js/787.5dad0626.chunk.js",
+    "static/media/logo.svg": "/sql-atlan/static/media/logo.8b6f633f27f1d88af91451fe35bb6273.svg",
+    "index.html": "/sql-atlan/index.html",
+    "main.38ec9444.css.map": "/sql-atlan/static/css/main.38ec9444.css.map",
+    "main.69a7da72.js.map": "/sql-atlan/static/js/main.69a7da72.js.map",
+    "787.5dad0626.chunk.js.map": "/sql-atlan/static/js/787.5dad0626.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38ec9444.css",
+    "static/js/main.69a7da72.js"
+  ]
+}
