@@ -16,13 +16,19 @@ function getRandomInt(max) {
 function App() {
   const [items, setItems] = useState([]);
 
+
+
   const fetchData = () => {
     fetch("https://jsonplaceholder.typicode.com/comments")
       .then((response) => {
         return response.json();
       })
       .then((data) => {
+        data=data.filter(d=>{
+          return (d.id>m && d.id<n);
+        });
         setItems(data);
+
       });
   };
 
