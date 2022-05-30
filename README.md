@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# This app is made using ReactJS framework
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Available Scripts for the framework
 
 In the project directory, you can run:
 
@@ -45,26 +43,35 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Overview of the Project:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Link: https://ripunjaynarula.github.io/sql-atlan/
 
-### Analyzing the Bundle Size
+* This is a dummy application.
+* There is a space to accept SQL queries.
+* A button to execute a dummy query to display data from an API
+* The data is displayed in the card below the button.
+* There is no SQL/Syntax validation in the text field.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Demo:
 
-### Making a Progressive Web App
+### 1. Page Loads
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![image](https://user-images.githubusercontent.com/66082800/171063719-a343eba0-7c49-423b-b34e-58bb28a3196b.png)
 
-### Advanced Configuration
+### 2. Query Executed
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![image](https://user-images.githubusercontent.com/66082800/171063701-ac891e77-1491-4746-a161-a40cc967c0a5.png)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Statistics:
 
-### `npm run build` fails to minify
+## Page Load Time measured using `https://www.debugbear.com/`:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://user-images.githubusercontent.com/66082800/171063922-33042057-9cb1-4a1b-a97a-a84700a18f58.png)
+
+![image](https://user-images.githubusercontent.com/66082800/171063967-cf5c665d-2f92-44ab-9476-39549bfdd115.png)
+
+![image](https://user-images.githubusercontent.com/66082800/171064043-729eb6be-bffe-4a57-b34b-34eb10c58313.png)
+
+
