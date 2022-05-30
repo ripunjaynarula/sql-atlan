@@ -1,5 +1,43 @@
 # This app is made using ReactJS framework
 
+# Overview of the Project:
+
+## Link: https://ripunjaynarula.github.io/sql-atlan/
+
+* This is a dummy application.
+* There is a space to accept SQL queries.
+* A button to execute a dummy query to display data from an API
+* The data is displayed in the card below the button.
+* There is no SQL/Syntax validation in the text field.
+
+
+
+# Demo:
+
+### 1. Page Loads
+
+![image](https://user-images.githubusercontent.com/66082800/171063719-a343eba0-7c49-423b-b34e-58bb28a3196b.png)
+
+### 2. Query Executed
+
+![image](https://user-images.githubusercontent.com/66082800/171063701-ac891e77-1491-4746-a161-a40cc967c0a5.png)
+
+
+
+
+# Statistics:
+
+## Page Load Time measured using `https://www.debugbear.com/`:
+
+![image](https://user-images.githubusercontent.com/66082800/171063922-33042057-9cb1-4a1b-a97a-a84700a18f58.png)
+
+![image](https://user-images.githubusercontent.com/66082800/171063967-cf5c665d-2f92-44ab-9476-39549bfdd115.png)
+
+![image](https://user-images.githubusercontent.com/66082800/171064043-729eb6be-bffe-4a57-b34b-34eb10c58313.png)
+
+
+
+
 ## Available Scripts for the framework
 
 In the project directory, you can run:
@@ -42,36 +80,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-# Overview of the Project:
-
-## Link: https://ripunjaynarula.github.io/sql-atlan/
-
-* This is a dummy application.
-* There is a space to accept SQL queries.
-* A button to execute a dummy query to display data from an API
-* The data is displayed in the card below the button.
-* There is no SQL/Syntax validation in the text field.
-
-# Demo:
-
-### 1. Page Loads
-
-![image](https://user-images.githubusercontent.com/66082800/171063719-a343eba0-7c49-423b-b34e-58bb28a3196b.png)
-
-### 2. Query Executed
-
-![image](https://user-images.githubusercontent.com/66082800/171063701-ac891e77-1491-4746-a161-a40cc967c0a5.png)
-
-
-# Statistics:
-
-## Page Load Time measured using `https://www.debugbear.com/`:
-
-![image](https://user-images.githubusercontent.com/66082800/171063922-33042057-9cb1-4a1b-a97a-a84700a18f58.png)
-
-![image](https://user-images.githubusercontent.com/66082800/171063967-cf5c665d-2f92-44ab-9476-39549bfdd115.png)
-
-![image](https://user-images.githubusercontent.com/66082800/171064043-729eb6be-bffe-4a57-b34b-34eb10c58313.png)
-
-
